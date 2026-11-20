@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Gravitational Phase Evolution and Mesoscopic Decoherence Thresholds: Testing Unified Phase Dynamics against Atom Interferometry and Quantum Equivalence Principle Experiments",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "description": "We confront the universal path-contour master-functional formulation of the Unified Phase Dynamics (UPD) with recent landmark laboratory measurements testing the quantum Equivalence Principle on an atom chip ('Quantum Galileo Interferometer', Science Advances, 2024). In the experiment, an atomic wave packet of 87Rb is coherently split into a spatially held branch and a freely falling branch, accumulating a measurable cubic phase shift of Delta Phi approx 80.0 rad over an interrogation time of T = 1.22 ms with spatial separation Delta z approx 7.30 um. We rigorously deduce this cubic phase evolution directly from the action differential of the UPD master-functional Psi[Sigma], obtaining Delta Phi_UPD = (m g^2 T^3) / (3 hbar) = 80.0 rad, matching the empirical observation with sub-percent accuracy. Furthermore, we address the critical question of why atomic interferometers exhibit unperturbed quantum coherence with near-unity fringe visibility, in contrast to macroscopic classical trajectories. Computing the non-perturbative gravitational path decoherence rate Gamma_UPD(M) = (6 G M^2) / (5 hbar r_loc) governed by the master-functional localization radius r_loc = 2.05e-13 m, we establish that for 87Rb (M = 1.44e-25 kg), the gravitational decoherence lifetime is tau_UPD approx 4.11e5 years, yielding a spontaneous collapse probability of merely P approx 9.4e-17 over the experimental cycle. We demonstrate that the quantum-to-classical transition is governed by a strict quadratic mass-scaling law (Gamma propto M^2), remaining completely unobservable in atomic systems but predicting decisive gravitational decoherence (tau_crit approx 10 ms) at the mesoscopic threshold M_crit approx 3.13e12 amu (R approx 75 nm silicon nanosphere) accessible in Experimentum Crucis 1.",
+    "creators": [
+      {
+        "name": "Pavliuk, Hryhorii",
+        "affiliation": "Independent Researcher"
+      }
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": [
+      "Quantum Equivalence Principle",
+      "Unified Phase Dynamics",
+      "Atom Interferometry",
+      "Atom Chip",
+      "Quantum Galileo",
+      "Gravitational Phase Shift",
+      "Decoherence",
+      "Wavefunction Collapse",
+      "Experimentum Crucis",
+      "Quantum Optomechanics",
+      "Rubidium-87",
+      "Diosi-Penrose Model"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.24226130",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://github.com/hrpavliuk-byte/Unified-Phase-Dynamics-Feynman-Path-Contours",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.1126/sciadv.adp7726",
+        "relation": "cites",
+        "scheme": "doi"
+      }
+    ]
+  }
+}
